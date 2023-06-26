@@ -4,7 +4,7 @@
 MainComponent::MainComponent()
 {
     addAndMakeVisible(toggleButton);
-    setSize (600, 400);
+    setSize (700,500);
 }
 
 MainComponent::~MainComponent()
